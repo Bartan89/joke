@@ -65,7 +65,7 @@ body {
 </style>
 <body>
 <header>
-<h1>What method does a programmer use to impress?</h1>
+<h1>Method programmer use to impress:</h1>
 </header>
 
 <p>"I just want to wrap you between <i>parentheses</i> and <i>require</i> you..."</p>
