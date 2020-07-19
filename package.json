@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Bartan89/joke/issues"
   },
-  "homepage": "https://github.com/Bartan89/joke#readme"
+  "homepage": "https://github.com/Bartan89/joke#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
