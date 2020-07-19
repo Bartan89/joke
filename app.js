@@ -20,7 +20,7 @@ body {
 <h1>A programmer showing emotions</h1>
 </header>
 
-<p>I just want to wrap you between <i>parentheses</i> and <i>require</i> you...</p>
+<p>"I just want to wrap you between <i>parentheses</i> and <i>require</i> you..."</p>
 </body>
 `
 
